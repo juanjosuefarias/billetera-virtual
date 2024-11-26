@@ -1,0 +1,14 @@
+{
+    "name": "billetera-virtual",
+    "version": "1.0.0",
+    "description": "Billetera virtual para code challenge Bnka",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "Juan Josue Farias",
+    "license": ""
+  }
+  
